@@ -84,7 +84,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/rasya2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="assets/img/rasya3.jpg" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
